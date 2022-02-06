@@ -1,0 +1,17 @@
+{
+  "lang": "ja",
+  "name": "ロシア鉄道地図",
+  "short_name": "ロシア鉄道地図",
+  "scope": "/",
+  "display": "fullscreen",
+  "background_color": "#1976d2",
+  "theme_color": "#1976d2",
+  "description": "ロシア鉄道の列車検索･時刻表･路線図",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://example.com/"
+}
