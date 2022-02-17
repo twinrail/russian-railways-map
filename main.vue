@@ -242,6 +242,7 @@ module.exports = {
     share(){
       const share_data = {
         title: document.title,
+        text: document.title,
         url: location.href,
       }
       navigator.share(share_data)
